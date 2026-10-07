@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Updated task title",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Finish project draft",
+    "completed": true
+  }
+]
